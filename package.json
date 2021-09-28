@@ -1,0 +1,9 @@
+{
+  "name": "crea",
+  "version": "1.0.0",
+  "description": "A simple and fast solution for the Crea Train code challenge ",
+  "main": "crea_test.js",
+  "scripts": {
+    "test": "node crea_test"
+  }
+}
